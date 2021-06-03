@@ -1,9 +1,12 @@
 # Standardize Country Code
 
-This project is to help social science research to standardize country code in multinational research. We follow [ISO 3166](https://www.iso.org/iso-3166-country-codes.html)[^1] to standardize country identifiers.
-
-[^1]:This list does not take any political or religious conflict into account.
+This project is to help social science research to standardize country code in multinational research. We follow [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) to standardize country identifiers. This list does not take any political or religious conflict into account.
 
 The list is now cross-sectional and we have a plan to develop it into a panel data.
 
-Please feel free to contribute if you find any uncovered country name/number/code.
+Please feel free to contribute if you find any uncovered country name/number/code. If you are not familiar with GitHub, you can send your request to this [email](mailto:wenzhi.ding@connect.hku.hk).
+
+- CountryName: This dataset is the link table between country names and ISO 3166-1 Alpha-3 code.
+- CountryNumber: This dataset is the link table between ISO 3166-1 Numeric code and ISO 3166-1 Alpha-3 code.
+- CountryISO2: This dataset is the link table between ISO 3166-1 Alpha-2 code to ISO 3166-1 Alpha-3 code.
+
