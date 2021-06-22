@@ -1,4 +1,5 @@
 Ctry_Name,Ctry_ISO3
+?land Islands,ALA
 Afghanistan,AFG
 Albania,ALB
 Algeria,DZA
@@ -7,6 +8,7 @@ Andorra,AND
 Angola,AGO
 Anguilla,AIA
 Antarctica,ATA
+Antigua & Barbuda,ATG
 Antigua and Barbuda,ATG
 Argentina,ARG
 Armenia,ARM
@@ -14,7 +16,9 @@ Aruba,ABW
 Australia,AUS
 Austria,AUT
 Azerbaijan,AZE
+Bahamas,BHS
 Bahamas (the),BHS
+"Bahamas, The",BHS
 Bahrain,BHR
 Bangladesh,BGD
 Barbados,BRB
@@ -24,53 +28,102 @@ Belize,BLZ
 Benin,BEN
 Bermuda,BMU
 Bhutan,BTN
+Bolivia,BOL
 Bolivia (Plurinational State of),BOL
 "Bonaire, Sint Eustatius and Saba",BES
+Bosnia,BIH
+Bosnia & Herzegovina,BIH
+Bosnia and Herzegovian,BIH
 Bosnia and Herzegovina,BIH
 Botswana,BWA
 Bouvet Island,BVT
 Brazil,BRA
+Brazil S?o Paulo,BRA
+British Indian Ocean Territory,IOT
 British Indian Ocean Territory (the),IOT
+British Virgin,VGB
+British Virgin Islands,VGB
+Brunei,BRN
 Brunei Darussalam,BRN
 Bulgaria,BGR
 Burkina Faso,BFA
+Burma,MMR
 Burundi,BDI
+C.A.R.,CAF
+C??te d?€?Ivoire,CIV
+C??te d'Ivoire ,CIV
+C?te d'Ivoire,CIV
 Cabo Verde,CPV
 Cambodia,KHM
 Cameroon,CMR
 Canada,CAN
+Cape Verde,CPV
+Cayman Islands,CYM
 Cayman Islands (the),CYM
+Central African Republic,CAF
 Central African Republic (the),CAF
+CentralAfrican,CAF
 Chad,TCD
+Channel Islands,CHI
 Chile,CHL
 China,CHN
+China (Mainland),CHN
+"China, Mainland",CHN
+Chinese Taipei,TWN
 Christmas Island,CXR
 Cocos (Keeling) Islands (the),CCK
 Colombia,COL
+Comoros,COM
 Comoros (the),COM
+Congo,COG
+Congo (DRC),COD
 Congo (the Democratic Republic of the),COD
 Congo (the),COG
+Congo Brazzaville,COG
+Congo Kinshasa,COD
+"Congo, Dem. Rep.",ZAR
+"Congo, Dem. Rep. of",COD
+"Congo, Rep.",COD
+"Congo, Republic of",COG
+"Congo, Republic of the",COG
+Cook Islands,COK
 Cook Islands (the),COK
 Costa Rica,CRI
+Cote D'Ivoire,CIV
+Cote Ivory,CIV
 Croatia,HRV
 Cuba,CUB
 Cura?ao,CUW
+Curacao,CUW
 Cyprus,CYP
+Czech,CZE
+Czech Rep.,CZE
+Czech Republic,CZE
 Czechia,CZE
-C?te d'Ivoire,CIV
+Democratic Republic of Congo,COD
+Democratic Republic of the Congo,COD
 Denmark,DNK
 Djibouti,DJI
 Dominica,DMA
+Dominican Rep,DOM
+Dominican Republic,DOM
 Dominican Republic (the),DOM
+East Timor / Timor-Leste,TLS
 Ecuador,ECU
+Egypt,EGY
+"Egypt, Arab Rep.",EGY
 El Salvador,SLV
 Equatorial Guinea,GNQ
+Equit. Guinea,GNQ
 Eritrea,ERI
 Estonia,EST
 Eswatini,SWZ
 Ethiopia,ETH
+Falkland Is,FLK
 Falkland Islands (the) [Malvinas],FLK
+Faroe Islands,FRO
 Faroe Islands (the),FRO
+Federated States of Micronesia,FSM
 Fiji,FJI
 Finland,FIN
 France,FRA
@@ -78,7 +131,10 @@ French Guiana,GUF
 French Polynesia,PYF
 French Southern Territories (the),ATF
 Gabon,GAB
+Gambia,GMB
 Gambia (the),GMB
+"Gambia, The",GMB
+Gaza Strip,PSE
 Georgia,GEO
 Germany,DEU
 Ghana,GHA
@@ -91,6 +147,7 @@ Guam,GUM
 Guatemala,GTM
 Guernsey,GGY
 Guinea,GIN
+Guinea Bissau,GNB
 Guinea-Bissau,GNB
 Guyana,GUY
 Haiti,HTI
@@ -98,28 +155,55 @@ Heard Island and McDonald Islands,HMD
 Holy See (the),VAT
 Honduras,HND
 Hong Kong,HKG
+Hong Kong SAR,HKG
+"Hong Kong SAR, China",HKG
+"Hong Kong, SAR",HKG
 Hungary,HUN
 Iceland,ISL
 India,IND
+India Mumbai,IND
 Indonesia,IDN
+Iran,IRN
 Iran (Islamic Republic of),IRN
+"Iran, I. Rep. Of",IRN
+"Iran, Islamic Rep.",IRN
 Iraq,IRQ
 Ireland,IRL
+Ireland-Rep,IRL
 Isle of Man,IMN
 Israel,ISR
 Italy,ITA
+Ivory Coast,CIV
 Jamaica,JAM
 Japan,JPN
+Japan Tokyo,JPN
 Jersey,JEY
+"Jersey, Channel Islands",CHI
 Jordan,JOR
+Kazahkstan,KAZ
 Kazakhstan,KAZ
 Kenya,KEN
 Kiribati,KIR
+Korea,KOR
+Korea (Rep.),KOR
 Korea (the Democratic People's Republic of),PRK
 Korea (the Republic of),KOR
+Korea North,PRK
+Korea South,KOR
+"Korea, Dem. People's Rep.",PRK
+"Korea, Dem. Rep.",PRK
+"Korea, North",PRK
+"Korea, Rep.",KOR
+"Korea, Republic of",KOR
+"Korea, South",KOR
+Kosovo,SRB
 Kuwait,KWT
+Kyrgyz Republic,KGZ
 Kyrgyzstan,KGZ
+Lao PDR,LAO
+Lao People's Democratic Republic,LAO
 Lao People's Democratic Republic (the),LAO
+Laos,LAO
 Latvia,LVA
 Lebanon,LBN
 Lesotho,LSO
@@ -128,20 +212,34 @@ Libya,LBY
 Liechtenstein,LIE
 Lithuania,LTU
 Luxembourg,LUX
+Luxemburg,LUX
 Macao,MAC
+Macao SAR,MAC
+"Macao SAR, China",MAC
+Macau,MAC
+Macedonia,MKD
+"Macedonia, FYR",MKD
 Madagascar,MDG
+Mainland China,CHN
 Malawi,MWI
 Malaysia,MYS
+Malaysia ,MYS
 Maldives,MDV
 Mali,MLI
 Malta,MLT
+Marshall Islands,MHL
 Marshall Islands (the),MHL
+"Marshall Islands, Rep.",MHL
 Martinique,MTQ
 Mauritania,MRT
 Mauritius,MUS
 Mayotte,MYT
 Mexico,MEX
+Mexico Mexico City,MEX
+Micronesia,FSM
 Micronesia (Federated States of),FSM
+"Micronesia, Fed. Sts.",FSM
+Moldova,MDA
 Moldova (the Republic of),MDA
 Monaco,MCO
 Mongolia,MNG
@@ -150,42 +248,76 @@ Montserrat,MSR
 Morocco,MAR
 Mozambique,MOZ
 Myanmar,MMR
+Myanmar (Burma),MMR
+Myanmar(Burma),MMR
+N. Macedonia,MKD
 Namibia,NAM
 Nauru,NRU
 Nepal,NPL
+Neth Antilles,ANT
+Netherland,NLD
+Netherlands,NLD
 Netherlands (the),NLD
+Netherlands Antilles,ANT
+Netherlands Antilles (former),ANT
 New Caledonia,NCL
 New Zealand,NZL
-Nicaragua,NIC
+Nicaragua ,NIC
+Niger,NER
 Niger (the),NER
 Nigeria,NGA
+Nigeria Lagos,NGA
 Niue,NIU
 Norfolk Island,NFK
+North Korea,PRK
+North Macedonia,MKD
+Northern Mariana Islands,MNP
 Northern Mariana Islands (the),MNP
 Norway,NOR
+Occupied Palestinian Territory,PSE
 Oman,OMN
 Pakistan,PAK
+Pakistan Karachi,PAK
 Palau,PLW
+Palestine,PSE
 "Palestine, State of",PSE
+Palestinian Territories,PSE
 Panama,PAN
+Papua N Guinea,PNG
+Papua N. Guineia,PNG
 Papua New Guinea,PNG
 Paraguay,PRY
 Peru,PER
+Philippine,PHL
+Philippines,PHL
 Philippines (the),PHL
 Pitcairn,PCN
 Poland,POL
 Portugal,PRT
 Puerto Rico,PRI
 Qatar,QAT
-Republic of North Macedonia,MKD
-Romania,ROU
-Russian Federation (the),RUS
-Rwanda,RWA
 R??union,REU
+Republic of Congo,COD
+Republic of Korea,KOR
+Republic of Macedonia,MKD
+Republic of North Macedonia,MKD
+Republic of the Congo,COG
+Reunion,REU
+Romania,ROU
+Russia,RUS
+Russian Fed,RUS
+Russian Federation,RUS
+Russian Federation (the),RUS
+Russian Federation Moscow,RUS
+Rwanda,RWA
+S??o Tom?? and Pr??ncipe ,STP
+S?o Tom?? and Pr??ncipe,STP
+S?o Tom?? and Principe,STP
 Saint Barth??lemy,BLM
 "Saint Helena, Ascension and Tristan da Cunha",SHN
 Saint Kitts and Nevis,KNA
 Saint Lucia,LCA
+Saint Martin,MAF
 Saint Martin (French part),MAF
 Saint Pierre and Miquelon,SPM
 Saint Vincent and the Grenadines,VCT
@@ -195,265 +327,101 @@ Sao Tome and Principe,STP
 Saudi Arabia,SAU
 Senegal,SEN
 Serbia,SRB
+Serbia and Montenegro,MNE
 Seychelles,SYC
 Sierra Leone,SLE
 Singapore,SGP
 Sint Maarten (Dutch part),SXM
+Slovak Rep,SVK
+Slovak Rep.,SVK
+Slovak Republic,SVK
 Slovakia,SVK
 Slovenia,SVN
 Solomon Islands,SLB
 Somalia,SOM
 South Africa,ZAF
 South Georgia and the South Sandwich Islands,SGS
+South Korea,KOR
 South Sudan,SSD
 Spain,ESP
 Sri Lanka,LKA
+St Kitts and Nevis,KNA
+St Lucia,LCA
+St Vincent and the Grenadines,VCT
+St. Kitts and Nevis,KNA
+St. Lucia,LCA
+St. Vincent and the Grenadines,VCT
+Sudan,SDN
 Sudan (the),SDN
+Sudan-North,SDN
 Suriname,SUR
 Svalbard and Jan Mayen,SJM
+Swaziland,SWZ
 Sweden,SWE
 Switzerland,CHE
+Syria,SYR
 Syrian Arab Republic,SYR
+Taiwan,TWN
 Taiwan (Province of China),TWN
+Taiwan Province of China,TWN
+"Taiwan, China",TWN
 Tajikistan,TJK
+Tanzania,TZA
 "Tanzania, United Republic of",TZA
 Thailand,THA
+The Bahamas,BHS
+The Gambia,GMB
+The Republic of the Marshall Islands,MHL
+Timor Leste,TLS
 Timor-Leste,TLS
 Togo,TGO
 Tokelau,TKL
 Tonga,TON
+Trinidad & Tobago,TTO
 Trinidad and Tobago,TTO
+Trinidad Tobago,TTO
+Trinidad&Tob,TTO
 Tunisia,TUN
 Turkey,TUR
 Turkmenistan,TKM
+Turks and Caicos Islands,TCA
 Turks and Caicos Islands (the),TCA
 Tuvalu,TUV
+U.A.E.,ARE
+U.S. Virgin Islands,VIR
+UAE,ARE
 Uganda,UGA
+UK,GBR
 Ukraine,UKR
+United Arab Emirates,ARE
 United Arab Emirates (the),ARE
+United Kingdom,GBR
 United Kingdom of Great Britain and Northern Ireland (the),GBR
+United Republic of Tanzania,TZA
+United States,USA
+United States Minor Outlying Islands,UMI
 United States Minor Outlying Islands (the),UMI
+United States New York City,USA
+United States of America,USA
 United States of America (the),USA
 Uruguay,URY
+USA,USA
+Utd Arab Em,ARE
 Uzbekistan,UZB
 Vanuatu,VUT
+Vatican City,VAT
+Venezuela,VEN
 Venezuela (Bolivarian Republic of),VEN
+"Venezuela, RB",VEN
+"Venezuela, Republica Bolivariana de",VEN
 Viet Nam,VNM
+Vietnam,VNM
 Virgin Islands (British),VGB
 Virgin Islands (U.S.),VIR
 Wallis and Futuna,WLF
+West Bank and Gaza,WBG
 Western Sahara,ESH
 Yemen,YEM
+"Yemen, Rep.",YEM
 Zambia,ZMB
 Zimbabwe,ZWE
-?land Islands,ALA
-Bangladesh ,BGD
-Bolivia,BOL
-Burma,MMR
-Central African Republic,CAF
-Comoros,COM
-Costa Rica ,CRI
-C??te d'Ivoire ,CIV
-Czech Republic,CZE
-Democratic Republic of Congo,COD
-Dominican Republic,DOM
-El Salvador ,SLV
-Guatemala ,GTM
-Honduras ,HND
-Hungary ,HUN
-Iran,IRN
-Jamaica ,JAM
-Kosovo,XKX
-Kyrgyz Republic ,KGZ
-Laos,LAO
-Macau,MAC
-Malaysia ,MYS
-Micronesia,FSM
-Moldova,MDA
-Mozambique ,MOZ
-Netherlands,NLD
-Nicaragua ,NIC
-Niger,NER
-North Korea,PRK
-North Macedonia,MKD
-Pakistan ,PAK
-Panama ,PAN
-Paraguay ,PRY
-Philippines,PHL
-Republic of Congo ,COG
-Russia,RUS
-S??o Tom?? and Pr??ncipe ,STP
-S?o Tom?? and Pr??ncipe,STP
-Serbia ,SRB
-South Korea,KOR
-Sudan,SDN
-Taiwan,TWN
-Syria,SYR
-Tanzania,TZA
-Thailand ,THA
-The Bahamas,BHS
-The Gambia,GMB
-United Arab Emirates,ARE
-United Kingdom,GBR
-United States,USA
-Uruguay ,URY
-Venezuela ,VEN
-Vietnam,VNM
-Bahamas,BHS
-Cayman Islands,CYM
-C??te d?€?Ivoire,CIV
-Gambia,GMB
-Hong Kong SAR,HKG
-Macao SAR,MAC
-Macedonia,MKD
-Palestine,PSE
-Republic of the Congo,COG
-St Kitts and Nevis,KNA
-St Lucia,LCA
-St Vincent and the Grenadines,VCT
-Chinese Taipei,TWN
-Venezuela,VEN
-China,CHIN
-Bangladesh,BANG
-"Congo, Dem. Rep.",ZAR
-India,INDI
-Indonesia,INDO
-Japan,JAP
-Kosovo,KSV
-Mexico,MEXI
-Nigeria,NIGE
-Pakistan,PAKI
-Romania,ROM
-Russian Federation,RUSS
-Timor-Leste,TMP
-United States,US
-West Bank and Gaza,WBG
-Brazil,BRAZ
-Korea North,PRK
-UAE,ARE
-Swaziland,SWZ
-Korea South,KOR
-Cape Verde,CPV
-Slovak Republic,SVK
-Congo Brazzaville,COG
-Timor Leste,TLS
-Cote D'Ivoire,CIV
-Sudan-North,SDN
-Myanmar (Burma),MMR
-Congo Kinshasa,COD
-Bosnia,BIH
-China (Mainland),CHN
-U.S. Virgin Islands,VIR
-British Virgin Islands,VGB
-Curacao,CUW
-Marshall Islands,MHL
-Brunei,BRN
-Palestinian Territories,PSE
-United States Minor Outlying Islands,UMI
-Faroe Islands,FRO
-Netherlands Antilles,ANT
-Serbia and Montenegro,YUG
-Kazahkstan,KAZ
-Czech Rep.,CZE
-Korea (Rep.),KOR
-Slovak Rep.,SVK
-Channel Islands,CHI
-Federated States of Micronesia,FSM
-United States of America,USA
-The Republic of the Marshall Islands,MHL
-USA,USA
-Republic of Korea,KOR
-Mainland China,CHN
-UK,GBR
-Lao People's Democratic Republic,LAO
-Occupied Palestinian Territory,PSE
-Saint Martin,MAF
-Democratic Republic of the Congo,COD
-Guinea Bissau,GNB
-St. Vincent and the Grenadines,VCT
-United Republic of Tanzania,TZA
-Czech,CZE
-Korea,KOR
-Luxemburg,LUX
-Netherland,NLD
-Philippine,PHL
-"Hong Kong, SAR",HKG
-Kosovo,RKS
-Bosnia and Herzegovian,BIH
-CentralAfrican,CAF
-Republic of Congo,COD
-Cote Ivory,CIV
-Equit. Guinea,GNQ
-N. Macedonia,MKD
-Papua N. Guineia,PNG
-Trinidad Tobago,TTO
-Northern Mariana Islands,MNP
-British Indian Ocean Territory,IOT
-Vatican City,VAT
-Congo (DRC),COD
-Cook Islands,COK
-Turks and Caicos Islands,TCA
-East Timor / Timor-Leste,TLS
-"Bahamas, The",BHS
-"Congo, Rep.",COD
-"Egypt, Arab Rep.",EGY
-"Gambia, The",GMB
-"Hong Kong SAR, China",HKG
-"Iran, Islamic Rep.",IRN
-"Korea, Rep.",KOR
-Kyrgyz Republic,KGZ
-Lao PDR,LAO
-"Micronesia, Fed. Sts.",FSM
-St. Kitts and Nevis,KNA
-St. Lucia,LCA
-"Taiwan, China",TWN
-"Venezuela, RB",VEN
-"Yemen, Rep.",YEM
-"Korea, Dem. People's Rep.",PRK
-"Macao SAR, China",MAC
-S?o Tom?? and Principe,STP
-"Macedonia, FYR",MKD
-"Korea, Dem. Rep.",PRK
-"Jersey, Channel Islands",CHI
-Netherlands Antilles (former),ANT
-"Korea, South",KOR
-Egypt,EGY
-Congo,COG
-"Korea, North",PRK
-"Venezuela, Republica Bolivariana de",VEN
-Antigua & Barbuda,ATG
-Trinidad & Tobago,TTO
-"Iran, I. Rep. Of",IRN
-U.A.E.,ARE
-Taiwan Province of China,TWN
-"Korea, Republic of",KOR
-C.A.R.,CAF
-"Congo, Republic of",COG
-"Congo, Dem. Rep. of",COD
-"Marshall Islands, Rep.",MHL
-"China, Mainland",CHN
-Bosnia & Herzegovina,BIH
-Republic of Macedonia,MKD
-"Congo, Republic of the",COG
-Gaza Strip,PSE
-United States New York City,USA
-India Mumbai,IND
-Japan Tokyo,JPN
-Brazil S?o Paulo,BRA
-Mexico Mexico City,MEX
-Nigeria Lagos,NGA
-Russian Federation Moscow,RUS
-Pakistan Karachi,PAK
-British Virgin,VGB
-Dominican Rep,DOM
-Falkland Is,FLK
-Ireland-Rep,IRL
-Ivory Coast,CIV
-Myanmar(Burma),MMR
-Neth Antilles,ANT
-Papua N Guinea,PNG
-Reunion,REU
-Russian Fed,RUS
-Slovak Rep,SVK
-Trinidad&Tob,TTO
-Utd Arab Em,ARE
