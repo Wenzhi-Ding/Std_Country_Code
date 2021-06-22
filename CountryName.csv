@@ -1,4 +1,4 @@
-ÔªøCtry_Name,Ctry_ISO3
+Ctry_Name,Ctry_ISO3
 Afghanistan,AFG
 Albania,ALB
 Algeria,DZA
@@ -54,10 +54,10 @@ Cook Islands (the),COK
 Costa Rica,CRI
 Croatia,HRV
 Cuba,CUB
-Cura√ßao,CUW
+Cura?ao,CUW
 Cyprus,CYP
 Czechia,CZE
-C√¥te d'Ivoire,CIV
+C?te d'Ivoire,CIV
 Denmark,DNK
 Djibouti,DJI
 Dominica,DMA
@@ -181,8 +181,8 @@ Republic of North Macedonia,MKD
 Romania,ROU
 Russian Federation (the),RUS
 Rwanda,RWA
-R√©union,REU
-Saint Barth√©lemy,BLM
+R®¶union,REU
+Saint Barth®¶lemy,BLM
 "Saint Helena, Ascension and Tristan da Cunha",SHN
 Saint Kitts and Nevis,KNA
 Saint Lucia,LCA
@@ -246,7 +246,7 @@ Western Sahara,ESH
 Yemen,YEM
 Zambia,ZMB
 Zimbabwe,ZWE
-√Öland Islands,ALA
+?land Islands,ALA
 Bangladesh ,BGD
 Bolivia,BOL
 Burma,MMR
@@ -283,7 +283,7 @@ Philippines,PHL
 Republic of Congo ,COG
 Russia,RUS
 S??o Tom?? and Pr??ncipe ,STP
-S√£o Tom√© and Pr√≠ncipe,STP
+S?o Tom®¶ and Pr®™ncipe,STP
 Serbia ,SRB
 South Korea,KOR
 Sudan,SDN
@@ -301,7 +301,7 @@ Venezuela ,VEN
 Vietnam,VNM
 Bahamas,BHS
 Cayman Islands,CYM
-C??te d?‚Ç¨?Ivoire,CIV
+C??te d?Ä?Ivoire,CIV
 Gambia,GMB
 Hong Kong SAR,HKG
 Macao SAR,MAC
@@ -411,7 +411,7 @@ St. Lucia,LCA
 "Yemen, Rep.",YEM
 "Korea, Dem. People's Rep.",PRK
 "Macao SAR, China",MAC
-S√£o Tom√© and Principe,STP
+S?o Tom®¶ and Principe,STP
 "Macedonia, FYR",MKD
 "Korea, Dem. Rep.",PRK
 "Jersey, Channel Islands",CHI
@@ -436,3 +436,24 @@ Bosnia & Herzegovina,BIH
 Republic of Macedonia,MKD
 "Congo, Republic of the",COG
 Gaza Strip,PSE
+United States New York City,USA
+India Mumbai,IND
+Japan Tokyo,JPN
+Brazil S?o Paulo,BRA
+Mexico Mexico City,MEX
+Nigeria Lagos,NGA
+Russian Federation Moscow,RUS
+Pakistan Karachi,PAK
+British Virgin,VGB
+Dominican Rep,DOM
+Falkland Is,FLK
+Ireland-Rep,IRL
+Ivory Coast,CIV
+Myanmar(Burma),MMR
+Neth Antilles,ANT
+Papua N Guinea,PNG
+Reunion,REU
+Russian Fed,RUS
+Slovak Rep,SVK
+Trinidad&Tob,TTO
+Utd Arab Em,ARE
