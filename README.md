@@ -10,3 +10,12 @@ Please feel free to contribute if you find any uncovered country name/number/cod
 - CountryNumber: This dataset is the link table between ISO 3166-1 Numeric code and ISO 3166-1 Alpha-3 code.
 - CountryISO2: This dataset is the link table between ISO 3166-1 Alpha-2 code to ISO 3166-1 Alpha-3 code.
 
+## Use in Python
+
+```python
+import pandas as pd
+
+df = pd.read_csv('https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/main/CountryName.csv', encoding='latin-1')
+```
+
+In this way, you can always get the most updated version of country code link tables.
