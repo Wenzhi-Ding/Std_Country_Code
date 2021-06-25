@@ -6,7 +6,7 @@ The list is now cross-sectional and we have a plan to develop it into a panel da
 
 Please feel free to contribute if you find any uncovered country name/number/code. If you are not familiar with GitHub, you can send your request to this [email](mailto:wenzhi.ding@connect.hku.hk).
 
-- CountryName: This dataset is the link table between country names and ISO 3166-1 Alpha-3 code.
+- **CountryName**: This dataset is the link table between country names and ISO 3166-1 Alpha-3 code. (This one is updated more frequently. You are advised to use this file in priority.)
 - CountryNumber: This dataset is the link table between ISO 3166-1 Numeric code and ISO 3166-1 Alpha-3 code.
 - CountryISO2: This dataset is the link table between ISO 3166-1 Alpha-2 code to ISO 3166-1 Alpha-3 code.
 
