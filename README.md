@@ -19,3 +19,10 @@ df = pd.read_csv('https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/m
 ```
 
 In this way, you can always get the most updated version of country code link tables.
+
+# References
+
+1. [Country Codes Collection (iso.org)](https://www.iso.org/obp/ui/#iso:pub:PUB500001:en)
+2. [Country Codes (worldbank.org)](https://wits.worldbank.org/wits/wits/witshelp/content/codes/country_codes.htm)
+3. [ISO 3166-3 - Wikipedia](https://en.wikipedia.org/wiki/ISO_3166-3)
+
