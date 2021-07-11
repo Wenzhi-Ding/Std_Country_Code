@@ -27,7 +27,7 @@ df = pd.read_csv('https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/m
 ### Stata
 
 ```stata
-import delimited https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/main/CountryName.csv, clear
+import delimited "https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/main/CountryName.csv", clear
 
 rename (Ctry_Name Ctry_ISO3) ([your country name] [your country code])
 
