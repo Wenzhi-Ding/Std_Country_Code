@@ -21,7 +21,7 @@ In this way, you can always get the most updated version of country code link ta
 ```python
 import pandas as pd
 
-df = pd.read_csv('https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/main/CountryName.csv', encoding='latin-1')
+df = pd.read_csv('https://raw.githubusercontent.com/Wenzhi-Ding/StdCountryCode/main/CountryName.csv', encoding='utf-8')  # Please use UTF-8 encoding.
 ```
 
 ### Stata

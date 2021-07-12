@@ -4,7 +4,8 @@ Afghanistan,AFG
 Angola,AGO
 Anguila,AIA
 Anguilla,AIA
-?land Islands,ALA
+Aland Islands,ALA
+Åland Islands,ALA
 Albania,ALB
 Andorra,AND
 Neth Antilles,ANT
@@ -45,7 +46,7 @@ Bosnia,BIH
 Bosnia & Herzegovina,BIH
 Bosnia and Herzegovian,BIH
 Bosnia and Herzegovina,BIH
-Saint Barth??lemy,BLM
+Saint Barthélemy,BLM
 Belarus,BLR
 Belgium-Luxembourg,BLX
 Belize,BLZ
@@ -53,9 +54,8 @@ Bermuda,BMU
 Bolivia,BOL
 Bolivia (Plurinational State of),BOL
 Brazil,BRA
-Brazil S?o Paulo,BRA-SP
-Brazil S?o Paulo,BRA-SP
 Brazil Rio de Janeiro,BRA-RJ
+Brazil São Paulo,BRA-SP
 Barbados,BRB
 Brunei,BRN
 Brunei Darussalam,BRN
@@ -78,17 +78,14 @@ China,CHN
 China (Mainland),CHN
 "China, Mainland",CHN
 Mainland China,CHN
-China Shanghai,CHN-SH
 China Beijing,CHN-BJ
-C??te d?�?Ivoire,CIV
-C??te d'Ivoire,CIV
-C??te d'Ivoire ,CIV
-C?te d'Ivoire,CIV
+China Shanghai,CHN-SH
 Cote D'Ivoire,CIV
 Cote Ivory,CIV
-Ivory Coast,CIV
 Cote d'Ivoire,CIV
-C?te d'Ivoire,CIV
+Côte D'Ivoire,CIV
+Côte d'Ivoire,CIV
+Ivory Coast,CIV
 Cameroon,CMR
 Congo (DRC),COD
 Congo (the Democratic Republic of the),COD
@@ -114,9 +111,8 @@ Cape Verde,CPV
 Costa Rica,CRI
 Czechoslovakia,CSK
 Cuba,CUB
-Cura??ao,CUW
-Cura?ao,CUW
 Curacao,CUW
+Curaçao,CUW
 Christmas Island,CXR
 Cayman Islands,CYM
 Cayman Islands (the),CYM
@@ -204,8 +200,8 @@ Indonesia Surabaya,IDN-JI
 Indonesia Jakarta,IDN-JK
 Isle of Man,IMN
 India,IND
-India Mumbai,IND-MH
 India Delhi,IND-DL
+India Mumbai,IND-MH
 British Indian Ocean Ter.,IOT
 British Indian Ocean Territory,IOT
 British Indian Ocean Territory (the),IOT
@@ -318,8 +314,8 @@ Niger,NER
 Niger (the),NER
 Norfolk Island,NFK
 Nigeria,NGA
-Nigeria Lagos,NGA-LA
 Nigeria Kano,NGA-KN
+Nigeria Lagos,NGA-LA
 Nicaragua,NIC
 Niue,NIU
 Netherland,NLD
@@ -332,8 +328,8 @@ Neutral Zone,NZE
 New Zealand,NZL
 Oman,OMN
 Pakistan,PAK
-Pakistan Karachi,PAK-SD
 Pakistan Lahore,PAK-PB
+Pakistan Karachi,PAK-SD
 Panama,PAN
 Pacific Islands,PCE
 Pitcairn,PCN
@@ -365,8 +361,8 @@ State of Palestine,PSE
 Gaza Strip,PSE-GZA
 French Polynesia,PYF
 Qatar,QAT
-R??union,REU
 Reunion,REU
+Réunion,REU
 Romania,ROU
 Russia,RUS
 Russian Fed,RUS
@@ -401,11 +397,8 @@ Saint Pierre and Miquelon,SPM
 Serbia,SRB
 Kosovo,SRB-KM
 South Sudan,SSD
-S??o Tom?? and Pr??ncipe ,STP
-S?o Tom?? and Pr??ncipe,STP
-S?o Tom?? and Principe,STP
 Sao Tome and Principe,STP
-S?o Tom�� and Pr��ncipe,STP
+São Tomé and Príncipe,STP
 USSR,SUN
 Suriname,SUR
 Slovak Rep,SVK
@@ -439,8 +432,8 @@ Timor Leste,TLS
 Timor-Leste,TLS
 Tonga,TON
 Trinidad & Tobago,TTO
-Trinidad and Tobago,TTO
 Trinidad Tobago,TTO
+Trinidad and Tobago,TTO
 Trinidad&Tob,TTO
 Tunisia,TUN
 Turkey,TUR
@@ -461,12 +454,12 @@ United States Minor Outlying Islands (the),UMI
 Unspecified,UNS
 Uruguay,URY
 U.S.,USA
+USA,USA
 United States,USA
-United States New York City,USA-NY
-United States Los Angeles,USA-CA
 United States of America,USA
 United States of America (the),USA
-USA,USA
+United States Los Angeles,USA-CA
+United States New York City,USA-NY
 Us Msc.Pac.I,USP
 Uzbekistan,UZB
 Holy See,VAT
