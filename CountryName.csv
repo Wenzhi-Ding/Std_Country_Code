@@ -33,6 +33,8 @@ Benin,BEN
 "Bonaire, Sint Eustatius and Saba",BES
 Burkina Faso,BFA
 Bangladesh,BGD
+Bangladesh Chittagong,BGD-10
+Bangladesh Dhaka,BGD-13
 Bulgaria,BGR
 Bahrain,BHR
 Bahamas,BHS
@@ -51,7 +53,9 @@ Bermuda,BMU
 Bolivia,BOL
 Bolivia (Plurinational State of),BOL
 Brazil,BRA
-Brazil S?o Paulo,BRA
+Brazil S?o Paulo,BRA-SP
+Brazil S?o Paulo,BRA-SP
+Brazil Rio de Janeiro,BRA-RJ
 Barbados,BRB
 Brunei,BRN
 Brunei Darussalam,BRN
@@ -74,6 +78,8 @@ China,CHN
 China (Mainland),CHN
 "China, Mainland",CHN
 Mainland China,CHN
+China Shanghai,CHN-SH
+China Beijing,CHN-BJ
 C??te d?€?Ivoire,CIV
 C??te d'Ivoire,CIV
 C??te d'Ivoire ,CIV
@@ -82,6 +88,7 @@ Cote D'Ivoire,CIV
 Cote Ivory,CIV
 Ivory Coast,CIV
 Cote d'Ivoire,CIV
+C?te d'Ivoire,CIV
 Cameroon,CMR
 Congo (DRC),COD
 Congo (the Democratic Republic of the),COD
@@ -193,9 +200,12 @@ Croatia,HRV
 Haiti,HTI
 Hungary,HUN
 Indonesia,IDN
+Indonesia Surabaya,IDN-JI
+Indonesia Jakarta,IDN-JK
 Isle of Man,IMN
 India,IND
-India Mumbai,IND
+India Mumbai,IND-MH
+India Delhi,IND-DL
 British Indian Ocean Ter.,IOT
 British Indian Ocean Territory,IOT
 British Indian Ocean Territory (the),IOT
@@ -213,7 +223,8 @@ Jamaica,JAM
 Jersey,JEY
 Jordan,JOR
 Japan,JPN
-Japan Tokyo,JPN
+Japan Tokyo,JPN-13
+Japan Osaka,JPN-27
 Jhonston Island,JTN
 Kazahkstan,KAZ
 Kazakhstan,KAZ
@@ -270,7 +281,8 @@ Republic of Moldova,MDA
 Madagascar,MDG
 Maldives,MDV
 Mexico,MEX
-Mexico Mexico City,MEX
+Mexico Mexico City,MEX-CMX
+Mexico Monterrey,MEX-NLE
 Marshall Islands,MHL
 Marshall Islands (the),MHL
 "Marshall Islands, Rep.",MHL
@@ -306,7 +318,8 @@ Niger,NER
 Niger (the),NER
 Norfolk Island,NFK
 Nigeria,NGA
-Nigeria Lagos,NGA
+Nigeria Lagos,NGA-LA
+Nigeria Kano,NGA-KN
 Nicaragua,NIC
 Niue,NIU
 Netherland,NLD
@@ -319,7 +332,8 @@ Neutral Zone,NZE
 New Zealand,NZL
 Oman,OMN
 Pakistan,PAK
-Pakistan Karachi,PAK
+Pakistan Karachi,PAK-SD
+Pakistan Lahore,PAK-PB
 Panama,PAN
 Pacific Islands,PCE
 Pitcairn,PCN
@@ -358,7 +372,8 @@ Russia,RUS
 Russian Fed,RUS
 Russian Federation,RUS
 Russian Federation (the),RUS
-Russian Federation Moscow,RUS
+Russian Federation Moscow,RUS-MOS
+Russian Federation Saint Petersburg,RUS-SPE
 Rwanda,RWA
 Ryukyu Is,RYU
 Saudi Arabia,SAU
@@ -390,6 +405,7 @@ S??o Tom?? and Pr??ncipe ,STP
 S?o Tom?? and Pr??ncipe,STP
 S?o Tom?? and Principe,STP
 Sao Tome and Principe,STP
+S?o Tom¨¦ and Pr¨ªncipe,STP
 USSR,SUN
 Suriname,SUR
 Slovak Rep,SVK
@@ -446,7 +462,8 @@ Unspecified,UNS
 Uruguay,URY
 U.S.,USA
 United States,USA
-United States New York City,USA
+United States New York City,USA-NY
+United States Los Angeles,USA-CA
 United States of America,USA
 United States of America (the),USA
 USA,USA
