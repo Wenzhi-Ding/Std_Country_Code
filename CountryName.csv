@@ -46,6 +46,7 @@ Bosnia,BIH
 Bosnia & Herzegovina,BIH
 Bosnia and Herzegovian,BIH
 Bosnia and Herzegovina,BIH
+Bosnia-Herzegovina,BIH
 Saint Barthélemy,BLM
 Belarus,BLR
 Belgium-Luxembourg,BLX
@@ -147,6 +148,7 @@ European Union,EUN
 Finland,FIN
 Fiji,FJI
 Falkland Is,FLK
+Falkland Is. (Malvinas),FLK
 Falkland Island,FLK
 Falkland Islands (the) [Malvinas],FLK
 France,FRA
@@ -154,6 +156,7 @@ Free Zones,FRE
 Faeroe Islands,FRO
 Faroe Islands,FRO
 Faroe Islands (the),FRO
+Fed. States of Micronesia,FSM
 Federated States of Micronesia,FSM
 Micronesia,FSM
 Micronesia (Federated States of),FSM
@@ -293,11 +296,13 @@ Republic of North Macedonia,MKD
 Mali,MLI
 Malta,MLT
 Burma,MMR
+Burma (Myanmar),MMR
 Myanmar,MMR
 Myanmar (Burma),MMR
 Myanmar(Burma),MMR
 Montenegro,MNE
 Mongolia,MNG
+Northern Mariana Is.,MNP
 Northern Mariana Islands,MNP
 Northern Mariana Islands (the),MNP
 Mozambique,MOZ
@@ -357,6 +362,7 @@ Occupied Palestinian Territory,PSE
 Palestine,PSE
 "Palestine, State of",PSE
 Palestinian Territories,PSE
+Palestinian territories,PSE
 State of Palestine,PSE
 Gaza Strip,PSE-GZA
 French Polynesia,PYF
@@ -384,6 +390,7 @@ Singapore,SGP
 South Georgia and the South Sandwich Islands,SGS
 Saint Helena,SHN
 "Saint Helena, Ascension and Tristan da Cunha",SHN
+St. Helena,SHN
 SIKKIM,SIK
 Svalbard and Jan Mayen,SJM
 Svalbard and Jan Mayen Is,SJM
@@ -394,6 +401,7 @@ San Marino,SMR
 Somalia,SOM
 Special Categories,SPE
 Saint Pierre and Miquelon,SPM
+St. Pierre and Miquelon,SPM
 Serbia,SRB
 Kosovo,SRB-KM
 South Sudan,SSD
@@ -467,6 +475,7 @@ Holy See (the),VAT
 Vatican City,VAT
 Saint Vincent and the Grenadines,VCT
 St Vincent and the Grenadines,VCT
+St. Vincent and the Gren.,VCT
 St. Vincent and the Grenadines,VCT
 Fm Vietnam Dr,VDR
 Venezuela,VEN
