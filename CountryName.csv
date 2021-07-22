@@ -151,6 +151,7 @@ Fiji,FJI
 Falkland Is,FLK
 Falkland Is. (Malvinas),FLK
 Falkland Island,FLK
+Falkland Islands (Malvinas),FLK
 Falkland Islands (the) [Malvinas],FLK
 France,FRA
 Free Zones,FRE
@@ -163,6 +164,7 @@ Micronesia,FSM
 Micronesia (Federated States of),FSM
 "Micronesia, Fed. Sts.",FSM
 Gabon,GAB
+England,GBR
 U.K.,GBR
 UK,GBR
 United Kingdom,GBR
@@ -194,6 +196,7 @@ Hong Kong SAR,HKG
 "Hong Kong SAR, China",HKG
 "Hong Kong, China",HKG
 "Hong Kong, SAR",HKG
+Hongkong,HKG
 Heard Island and McDonald Islands,HMD
 Honduras,HND
 Croatia,HRV
@@ -239,6 +242,7 @@ St Kitts and Nevis,KNA
 St. Kitts and Nevis,KNA
 Korea,KOR
 Korea (Rep.),KOR
+Korea (South),KOR
 Korea (the Republic of),KOR
 Korea South,KOR
 "Korea, Rep.",KOR
@@ -277,6 +281,7 @@ Morocco,MAR
 Monaco,MCO
 Moldova,MDA
 Moldova (the Republic of),MDA
+Moldovia,MDA
 Republic of Moldova,MDA
 Madagascar,MDG
 Maldives,MDV
@@ -426,6 +431,7 @@ Seychelles,SYC
 Syria,SYR
 Syrian Arab Republic,SYR
 Fm Tanganyik,TAN
+Turks & Caicos Islands,TCA
 Turks and Caicos Isl.,TCA
 Turks and Caicos Islands,TCA
 Turks and Caicos Islands (the),TCA
@@ -485,9 +491,12 @@ Venezuela (Bolivarian Republic of),VEN
 "Venezuela, Republica Bolivariana de",VEN
 British Virgin,VGB
 British Virgin Islands,VGB
+Virgin Islands (Brit),VGB
 Virgin Islands (British),VGB
+Virgin Islands(Brit),VGB
 U.S. Virgin Islands,VIR
 US Virgin Is,VIR
+United States Virgin Islands,VIR
 Virgin Islands (U.S.),VIR
 Viet Nam,VNM
 Vietnam,VNM
