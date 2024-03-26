@@ -107,6 +107,7 @@ Congo Kinshasa,COD
 "Congo, DR",COD
 "Congo, Dem. Rep. of",COD
 "Congo, Democratic Republic of",COD
+DR Congo,COD
 Dem. Rep. of the Congo,COD
 Democratic Republic of Congo,COD
 Democratic Republic of the Congo,COD
@@ -135,6 +136,7 @@ Christmas Island,CXR
 Cayman Islands,CYM
 Cayman Islands (the),CYM
 Cyprus,CYP
+Northern Cyprus,CYP
 Czech,CZE
 Czech Rep.,CZE
 Czech Republic,CZE
@@ -195,6 +197,7 @@ UK,GBR
 United Kingdom,GBR
 United Kingdom of Great Britain and Northern Ireland (the),GBR
 West Indies (British),GBR
+Akrotiri and Dhekelia,GBR-AD
 Northern Ireland,GBR-NIR
 Scotland,GBR-SCT
 Wales,GBR-WLS
@@ -327,6 +330,7 @@ Moldova,MDA
 Moldova (the Republic of),MDA
 Moldovia,MDA
 Republic of Moldova,MDA
+Transnistria,MDA
 Madagascar,MDG
 Maldives,MDV
 Mexico,MEX
@@ -464,6 +468,7 @@ Sierra Leone,SLE
 El Salvador,SLV
 San Marino,SMR
 Somalia,SOM
+Somaliland,SOM
 Special Categories,SPE
 Saint Pierre and Miquelon,SPM
 St. Pierre and Miquelon,SPM
