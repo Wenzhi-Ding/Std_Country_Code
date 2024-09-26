@@ -158,6 +158,9 @@ Egypt,EGY
 "Egypt, Arab Rep.",EGY
 Eritrea,ERI
 Western Sahara,ESH
+Canary Is,ESP
+Ceuta,ESP
+Melilla,ESP
 Spain,ESP
 Estonia,EST
 Ethiopia (includes Eritrea),ETF
@@ -230,6 +233,7 @@ Hong Kong SAR,HKG
 "Hong Kong SAR, China",HKG
 "Hong Kong, China",HKG
 "Hong Kong, SAR",HKG
+HongKong,HKG
 Hongkong,HKG
 Heard Island and McDonald Islands,HMD
 Honduras,HND
@@ -357,6 +361,7 @@ Myanmar (Burma),MMR
 Myanmar(Burma),MMR
 Montenegro,MNE
 Republic of Montenegro,MNE
+montenegro,MNE
 Mongolia,MNG
 Northern Mariana Is.,MNP
 Northern Mariana Islands,MNP
@@ -433,6 +438,7 @@ French Polynesia,PYF
 Marquesas Is,PYF
 Society Is,PYF
 Tuamotu Is,PYF
+Tubai Is,PYF
 Qatar,QAT
 Reunion,REU
 Réunion,REU
