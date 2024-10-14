@@ -2,6 +2,13 @@
 
 This project helps social science research standardize country codes in multinational research. We follow [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) to standardize country identifiers. This list does not take any political or religious conflict into account.
 
+Just in case you are interested in similar data tools, I also constructed:
+- [Standardized Security Code](https://github.com/Wenzhi-Ding/Std_Security_Code)
+- [Fama French Industry to SIC Link](https://github.com/Wenzhi-Ding/FamaFrenchIndustry)
+
+Please star the projects if you feel it is useful! Many thanks for your appreciation and support!
+
+
 The list is now cross-sectional, and I would like to develop it into a panel.
 
 Please feel free to contribute if you find any uncovered or wrong country name/number/code. You can either use a pull request or email me at wenzhi.ding@polyu.edu.hk.
