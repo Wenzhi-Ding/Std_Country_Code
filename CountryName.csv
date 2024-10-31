@@ -1,97 +1,199 @@
 Ctry_Name,Ctry_ISO3
+ABW,ABW
+AW,ABW
 Aruba,ABW
+AF,AFG
+AFG,AFG
 Afghanistan,AFG
+AGO,AGO
+AO,AGO
 Angola,AGO
+AI,AIA
+AIA,AIA
 Anguila,AIA
 Anguilla,AIA
+ALA,ALA
+AX,ALA
 Aland Islands,ALA
 Åland Islands,ALA
+AL,ALB
+ALB,ALB
 Albania,ALB
+AD,AND
+AND,AND
 Andorra,AND
+AN,ANT
+ANT,ANT
 Neth Antilles,ANT
 Nether. Antilles,ANT
 Netherlands Antilles,ANT
 Netherlands Antilles (former),ANT
 the Nether-lands Antilles,ANT
+AE,ARE
+ARE,ARE
 U.A.E.,ARE
 UAE,ARE
 United Arab Emirates,ARE
 United Arab Emirates (the),ARE
 Utd Arab Em,ARE
+AR,ARG
+ARG,ARG
 Argentina,ARG
+AM,ARM
+ARM,ARM
 Armenia,ARM
+AS,ASM
+ASM,ASM
 American Samoa,ASM
+AQ,ATA
+ATA,ATA
 Antarctica,ATA
 Antartics,ATA
+ATF,ATF
 Fr. So. Ant. Tr,ATF
 French Southern Territories,ATF
 French Southern Territories (the),ATF
+TF,ATF
+AG,ATG
+ATG,ATG
 Antigua & Barbuda,ATG
 Antigua and Barbuda,ATG
+AU,AUS
+AUS,AUS
 Australia,AUS
+AT,AUT
+AUT,AUT
 Austria,AUT
+AZ,AZE
+AZE,AZE
 Azerbaijan,AZE
+BAT,BAT
 Br. Antr. Terr,BAT
+BDI,BDI
+BI,BDI
 Burundi,BDI
+BE,BEL
+BEL,BEL
 Belgium,BEL
+BEN,BEN
+BJ,BEN
 Benin,BEN
+BES,BES
+BQ,BES
 Bonaire,BES
 "Bonaire, Sint Eustatius and Saba",BES
 "Bonaire, St. Eustatius and Saba",BES
 Saba,BES
+BF,BFA
+BFA,BFA
 Burkina Faso,BFA
+BD,BGD
+BGD,BGD
 Bangladesh,BGD
+BGD-10,BGD-10
 Bangladesh Chittagong,BGD-10
+BGD-13,BGD-13
 Bangladesh Dhaka,BGD-13
+BG,BGR
+BGR,BGR
 Bulgaria,BGR
+BH,BHR
+BHR,BHR
 Bahrain,BHR
 Bahrian,BHR
+BHS,BHS
+BS,BHS
 Bahamas,BHS
 Bahamas (the),BHS
 "Bahamas, The",BHS
 The Bahamas,BHS
+BA,BIH
+BIH,BIH
 Bosnia,BIH
 Bosnia & Herzegovina,BIH
 Bosnia and Herzegovian,BIH
 Bosnia and Herzegovina,BIH
 Bosnia-Herzegovina,BIH
+BL,BLM
+BLM,BLM
 Saint Barthelemy,BLM
 Saint Barthélemy,BLM
+BLR,BLR
+BY,BLR
 Belarus,BLR
 Byelorussia,BLR
+BLX,BLX
 Belgium-Luxembourg,BLX
+BLZ,BLZ
+BZ,BLZ
 Belize,BLZ
+BM,BMU
+BMU,BMU
 Bermuda,BMU
+BO,BOL
+BOL,BOL
 Bolivia,BOL
 Bolivia (Plurinational State of),BOL
+BR,BRA
+BRA,BRA
 Brazil,BRA
+BRA-RJ,BRA-RJ
 Brazil Rio de Janeiro,BRA-RJ
+BRA-SP,BRA-SP
 Brazil São Paulo,BRA-SP
+BB,BRB
+BRB,BRB
 Barbados,BRB
+BN,BRN
+BRN,BRN
 Brunei,BRN
 Brunei Darussalam,BRN
+BT,BTN
+BTN,BTN
 Bhutan,BTN
+BV,BVT
+BVT,BVT
 Bouvet Island,BVT
+BW,BWA
+BWA,BWA
 Botswana,BWA
 C.A.R.,CAF
+CAF,CAF
+CF,CAF
 Central African Rep.,CAF
 Central African Republic,CAF
 Central African Republic (the),CAF
 CentralAfrican,CAF
+CA,CAN
+CAN,CAN
 Can.,CAN
 Canada,CAN
+CC,CCK
+CCK,CCK
 Cocos (Keeling) Islands,CCK
 Cocos (Keeling) Islands (the),CCK
+CH,CHE
+CHE,CHE
 Switzerland,CHE
+CHI,CHI
 Channel Islands,CHI
+JG,CHI
 "Jersey, Channel Islands",CHI
+CHL,CHL
+CL,CHL
 Chile,CHL
+CHN,CHN
+CN,CHN
 China,CHN
 China (Mainland),CHN
 "China, Mainland",CHN
 Mainland China,CHN
+CHN-BJ,CHN-BJ
 China Beijing,CHN-BJ
+CHN-SH,CHN-SH
 China Shanghai,CHN-SH
+CI,CIV
+CIV,CIV
 Cote D Ivoire,CIV
 Cote D'Ivoire,CIV
 Cote Ivory,CIV
@@ -100,7 +202,11 @@ Cote-D'Ivoire,CIV
 Côte D'Ivoire,CIV
 Côte d'Ivoire,CIV
 Ivory Coast,CIV
+CM,CMR
+CMR,CMR
 Cameroon,CMR
+CD,COD
+COD,COD
 Congo (DRC),COD
 Congo (the Democratic Republic of the),COD
 Congo Kinshasa,COD
@@ -112,6 +218,9 @@ Dem. Rep. of the Congo,COD
 Democratic Republic of Congo,COD
 Democratic Republic of the Congo,COD
 Republic of Congo,COD
+ZR,COD
+CG,COG
+COG,COG
 Congo,COG
 Congo (the),COG
 Congo Brazzaville,COG
@@ -119,58 +228,118 @@ Congo Brazzaville,COG
 "Congo, Republic of",COG
 "Congo, Republic of the",COG
 Republic of the Congo,COG
+CK,COK
+COK,COK
 Cook Is,COK
 Cook Islands,COK
 Cook Islands (the),COK
+CO,COL
+COL,COL
 Colombia,COL
+COM,COM
 Comoros,COM
 Comoros (the),COM
+KM,COM
+CPV,CPV
+CV,CPV
 Cabo Verde,CPV
 Cape Verde,CPV
+CR,CRI
+CRI,CRI
 Costa Rica,CRI
+CSK,CSK
 Czechoslovakia,CSK
+CU,CUB
+CUB,CUB
 Cuba,CUB
+CUW,CUW
+CW,CUW
 Curacao,CUW
 Curaçao,CUW
+CX,CXR
+CXR,CXR
 Christmas Island,CXR
+CYM,CYM
 Cayman Islands,CYM
 Cayman Islands (the),CYM
+KY,CYM
+CY,CYP
+CYP,CYP
 Cyprus,CYP
 Northern Cyprus,CYP
+CZ,CZE
+CZE,CZE
 Czech,CZE
 Czech Rep.,CZE
 Czech Republic,CZE
 CzechRep,CZE
 Czechia,CZE
+DD,DDR
+DDR,DDR
 German Democratic Republic,DDR
 "Germany, Dem Rep",DDR
+DE,DEU
+DEU,DEU
 Germany,DEU
 "Germany, Fed Rep",DEU
+DJ,DJI
+DJI,DJI
 Djibouti,DJI
+DM,DMA
+DMA,DMA
 Dominica,DMA
+DK,DNK
+DNK,DNK
 Denmark,DNK
+DO,DOM
+DOM,DOM
 Dominican Rep,DOM
 Dominican Republic,DOM
 Dominican Republic (the),DOM
 Algeria,DZA
+DZ,DZA
+DZA,DZA
+EC,ECU
+ECU,ECU
 Ecuador,ECU
+EG,EGY
+EGY,EGY
 Egypt,EGY
 "Egypt, Arab Rep.",EGY
+ER,ERI
+ERI,ERI
 Eritrea,ERI
+EH,ESH
+ESH,ESH
 Western Sahara,ESH
 Canary Is,ESP
 Ceuta,ESP
+ES,ESP
+ESP,ESP
 Melilla,ESP
 Spain,ESP
+EE,EST
+EST,EST
 Estonia,EST
+ETF,ETF
 Ethiopia (includes Eritrea),ETF
 Ethiopia and Eritrea,ETF
+ET,ETH
+ETH,ETH
 Ethiopia,ETH
 Ethiopia (excludes Eritrea),ETH
+EUN,EUN
 European Union,EUN
+EZ,EZ
 European Zone,EZ
+FI,FIN
+FIN,FIN
 Finland,FIN
+FJ,FJI
+FJI,FJI
 Fiji,FJI
+FK,FLK
+FLK,FLK
 Falkland (Malvinas),FLK
 Falkland Is,FLK
 Falkland Is. (Malvinas),FLK
@@ -178,56 +347,106 @@ Falkland Island,FLK
 Falkland Islands,FLK
 Falkland Islands (Malvinas),FLK
 Falkland Islands (the) [Malvinas],FLK
+FR,FRA
+FRA,FRA
 France,FRA
 France Metropolitan,FRA
 French Antilles,FRA
 West Indies (French),FRA
+FRE,FRE
 Free Zones,FRE
+FO,FRO
+FRO,FRO
 Faeroe Islands,FRO
 Faroe Islands,FRO
 Faroe Islands (the),FRO
 the Faroe Is-lands,FRO
+FM,FSM
+FSM,FSM
 Fed. States of Micronesia,FSM
 Federated States of Micronesia,FSM
 Micronesia,FSM
 Micronesia (Federated States of),FSM
 Micronesia Fs,FSM
 "Micronesia, Fed. Sts.",FSM
+GA,GAB
+GAB,GAB
 Gabon,GAB
 England,GBR
+GB,GBR
+GBR,GBR
 U.K.,GBR
 UK,GBR
+UKOFF,GBR
 United Kingdom,GBR
 United Kingdom of Great Britain and Northern Ireland (the),GBR
 West Indies (British),GBR
 Akrotiri and Dhekelia,GBR-AD
+GBR-AD,GBR-AD
+GBR-NIR,GBR-NIR
 Northern Ireland,GBR-NIR
+GBR-SCT,GBR-SCT
 Scotland,GBR-SCT
+GBR-WLS,GBR-WLS
 Wales,GBR-WLS
+GE,GEO
+GEO,GEO
 Georgia,GEO
+GG,GGY
+GGY,GGY
 Guernsey,GGY
+GH,GHA
+GHA,GHA
 Ghana,GHA
+GI,GIB
+GIB,GIB
 Gibraltar,GIB
+GIN,GIN
+GN,GIN
 Guinea,GIN
+GLP,GLP
+GP,GLP
 Guadeloupe,GLP
+GM,GMB
+GMB,GMB
 Gambia,GMB
 Gambia (the),GMB
 "Gambia, The",GMB
 The Gambia,GMB
+GNB,GNB
+GW,GNB
 Guinea Bis-sau,GNB
 Guinea Bissau,GNB
 Guinea-Bissau,GNB
 Equatorial Guinea,GNQ
 Equit. Guinea,GNQ
+GNQ,GNQ
+GQ,GNQ
+GR,GRC
+GRC,GRC
 Greece,GRC
+GD,GRD
+GRD,GRD
 Grenada,GRD
+GL,GRL
+GRL,GRL
 Greenland,GRL
+GT,GTM
+GTM,GTM
 Guatemala,GTM
 French Guiana,GUF
+GF,GUF
+GUF,GUF
+GU,GUM
+GUM,GUM
 Guam,GUM
 French Guyana,GUY
+GUY,GUY
+GY,GUY
 Guyana,GUY
 "China, Hong Kong SAR",HKG
+HK,HKG
+HKG,HKG
 Hong Kong,HKG
 Hong Kong SAR,HKG
 "Hong Kong SAR, China",HKG
@@ -235,55 +454,115 @@ Hong Kong SAR,HKG
 "Hong Kong, SAR",HKG
 HongKong,HKG
 Hongkong,HKG
+HM,HMD
+HMD,HMD
 Heard Island and McDonald Islands,HMD
+HN,HND
+HND,HND
 Honduras,HND
 Croatia,HRV
 Croatia Rep,HRV
+HR,HRV
+HRV,HRV
+HT,HTI
+HTI,HTI
 Haiti,HTI
+HU,HUN
+HUN,HUN
 Hungary,HUN
+ID,IDN
+IDN,IDN
 Indonesia,IDN
+IDN-JI,IDN-JI
 Indonesia Surabaya,IDN-JI
+IDN-JK,IDN-JK
 Indonesia Jakarta,IDN-JK
+IM,IMN
+IMN,IMN
 Isle of Man,IMN
+IN,IND
+IND,IND
 India,IND
 West Indian States,IND
+IND-DL,IND-DL
 India Delhi,IND-DL
+IND-MH,IND-MH
 India Mumbai,IND-MH
 British Indian Ocean Ter.,IOT
 British Indian Ocean Territory,IOT
 British Indian Ocean Territory (the),IOT
 British Territory Ind. Ocean,IOT
+IO,IOT
+IOT,IOT
+IE,IRL
+IRL,IRL
 Ireland,IRL
 Ireland-Rep,IRL
 Ireland; Republic of,IRL
+IR,IRN
+IRN,IRN
 Iran,IRN
 Iran (Islamic Republic of),IRN
 "Iran, I. Rep. Of",IRN
 "Iran, Islamic Rep.",IRN
+IQ,IRQ
+IRQ,IRQ
 Iraq,IRQ
+IS,ISL
+ISL,ISL
 Iceland,ISL
+IL,ISR
+ISR,ISR
 Israel,ISR
+IT,ITA
+ITA,ITA
 Italy,ITA
+JAM,JAM
+JM,JAM
 Jamaica,JAM
+JE,JEY
+JEY,JEY
 Jersey,JEY
+JO,JOR
+JOR,JOR
 Jordan,JOR
+JP,JPN
+JPN,JPN
 Japan,JPN
+JPN-13,JPN-13
 Japan Tokyo,JPN-13
+JPN-27,JPN-27
 Japan Osaka,JPN-27
+JTN,JTN
 Jhonston Island,JTN
+KAZ,KAZ
+KZ,KAZ
 Kazahkstan,KAZ
 Kazakhstan,KAZ
+KE,KEN
+KEN,KEN
 Kenya,KEN
+KG,KGZ
+KGZ,KGZ
 Kirghizia,KGZ
 Kyrgyz Republic,KGZ
 Kyrgyzstan,KGZ
 Cambodia,KHM
+KH,KHM
+KHM,KHM
+KI,KIR
+KIR,KIR
 Kiribati,KIR
+KN1,KN1
 Saint Kitts-Nevis-Anguilla-Aru,KN1
+KN,KNA
+KNA,KNA
 Saint Kitts and Nevis,KNA
 Saint kitts Nevis,KNA
 St Kitts and Nevis,KNA
 St. Kitts and Nevis,KNA
+KOR,KOR
+KR,KOR
 Korea,KOR
 Korea (Rep.),KOR
 Korea (South),KOR
@@ -298,123 +577,252 @@ Korea; Republic (S. Korea),KOR
 Republic of Korea,KOR
 South Korea,KOR
 SouthKorea,KOR
+KW,KWT
+KWT,KWT
 Kuwait,KWT
+LA,LAO
+LAO,LAO
 Lao PDR,LAO
 Lao People's Dem Rep,LAO
 Lao People's Democratic Republic,LAO
 Lao People's Democratic Republic (the),LAO
 Laos,LAO
+LB,LBN
+LBN,LBN
 Lebanon,LBN
+LBR,LBR
+LR,LBR
 Liberia,LBR
+LBY,LBY
+LY,LBY
 Libya,LBY
 Libyan Arab Jamahiriya,LBY
+LC,LCA
+LCA,LCA
 Saint Lucia,LCA
 St Lucia,LCA
 St. Lucia,LCA
+LI,LIE
+LIE,LIE
 Liechtenstein,LIE
+LK,LKA
+LKA,LKA
 Sri Lanka,LKA
 SriLanka,LKA
+LS,LSO
+LSO,LSO
 Lesotho,LSO
+LT,LTU
+LTU,LTU
 Lithuania,LTU
+LU,LUX
+LUX,LUX
 Luxembourg,LUX
 Luxemburg,LUX
+LV,LVA
+LVA,LVA
 Latvia,LVA
 "China, Macao SAR",MAC
+MAC,MAC
+MO,MAC
 Macao,MAC
 Macao SAR,MAC
 "Macao SAR, China",MAC
 Macau,MAC
+MAF,MAF
+MF,MAF
 Saint Martin,MAF
 Saint Martin (French part),MAF
 Saint Martin Is,MAF
 St. Martin (French part),MAF
+MA,MAR
+MAR,MAR
 Morocco,MAR
+MC,MCO
+MCO,MCO
 Monaco,MCO
+MD,MDA
+MDA,MDA
 Moldova,MDA
 Moldova (the Republic of),MDA
 Moldovia,MDA
 Republic of Moldova,MDA
 Transnistria,MDA
+MDG,MDG
+MG,MDG
 Madagascar,MDG
+MDV,MDV
+MV,MDV
 Maldives,MDV
+MEX,MEX
+MX,MEX
 Mexico,MEX
+MEX-CMX,MEX-CMX
 Mexico Mexico City,MEX-CMX
+MEX-NLE,MEX-NLE
 Mexico Monterrey,MEX-NLE
+MH,MHL
+MHL,MHL
 Marshall Is Rep.,MHL
 Marshall Islands,MHL
 Marshall Islands (the),MHL
 "Marshall Islands, Rep.",MHL
 The Republic of the Marshall Islands,MHL
+MID,MID
 Midway Islands,MID
+MK,MKD
+MKD,MKD
 Macedonia,MKD
 "Macedonia, FYR",MKD
 N. Macedonia,MKD
 North Macedonia,MKD
 Republic of Macedonia,MKD
 Republic of North Macedonia,MKD
+ML,MLI
+MLI,MLI
 Mali,MLI
+MLT,MLT
+MT,MLT
 Malta,MLT
+BU,MMR
 Burma,MMR
 Burma (Myanmar),MMR
+MM,MMR
+MMR,MMR
 Myanmar,MMR
 Myanmar (Burma),MMR
 Myanmar(Burma),MMR
+ME,MNE
+MNE,MNE
 Montenegro,MNE
 Republic of Montenegro,MNE
 montenegro,MNE
+MN,MNG
+MNG,MNG
 Mongolia,MNG
+MNP,MNP
+MP,MNP
 Northern Mariana Is.,MNP
 Northern Mariana Islands,MNP
 Northern Mariana Islands (the),MNP
+MOZ,MOZ
+MZ,MOZ
 Mozambique,MOZ
+MR,MRT
+MRT,MRT
 Mauritania,MRT
+MS,MSR
+MSR,MSR
 Montserrat,MSR
+MQ,MTQ
+MTQ,MTQ
 Martinique,MTQ
+MU,MUS
+MUS,MUS
 Mauritius,MUS
+MW,MWI
+MWI,MWI
 Malawi,MWI
+MY,MYS
+MYS,MYS
 Malaysia,MYS
+MYT,MYT
 Mayotte,MYT
+YT,MYT
+NAM,NAM
 Namibia,NAM
+,NAM
+NC,NCL
+NCL,NCL
 New Caledo-nia,NCL
 New Caledonia,NCL
+NE,NER
+NER,NER
 Niger,NER
 Niger (the),NER
+NF,NFK
+NFK,NFK
 Norfolk Is,NFK
 Norfolk Island,NFK
+NG,NGA
+NGA,NGA
 Nigeria,NGA
+NGA-KN,NGA-KN
 Nigeria Kano,NGA-KN
+NGA-LA,NGA-LA
 Nigeria Lagos,NGA-LA
+NI,NIC
+NIC,NIC
 Nicaragua,NIC
+NIU,NIU
+NU,NIU
 Niue,NIU
+NL,NLD
+NLD,NLD
 Netherland,NLD
 Netherlands,NLD
 Netherlands (the),NLD
+NO,NOR
+NOR,NOR
 Norway,NOR
+NP,NPL
+NPL,NPL
 Nepal,NPL
 "Nepal,FDR",NPL
+NR,NRU
+NRU,NRU
 Nauru,NRU
+NZE,NZE
 Neutral Zone,NZE
+NZ,NZL
+NZL,NZL
 New Zealand,NZL
 NewZealand,NZL
+OM,OMN
+OMN,OMN
 Oman,OMN
+PAK,PAK
+PK,PAK
 Pakistan,PAK
+PAK-PB,PAK-PB
 Pakistan Lahore,PAK-PB
+PAK-SD,PAK-SD
 Pakistan Karachi,PAK-SD
+PA,PAN
+PAN,PAN
 Panama,PAN
+PCE,PCE
 Pacific Islands,PCE
+PCN,PCN
+PN,PCN
 Pitcairn,PCN
 Fm Panama Cz,PCZ
+PCZ,PCZ
+PE,PER
+PER,PER
 Peru,PER
+PH,PHL
+PHL,PHL
 Philippine,PHL
 Philippines,PHL
 Philippines (the),PHL
+PLW,PLW
+PW,PLW
 Palau,PLW
+PMY,PMY
 Pen Malaysia,PMY
+PG,PNG
+PNG,PNG
 Papua N Guinea,PNG
 Papua N. Guineia,PNG
 Papua New Guinea,PNG
+PL,POL
+POL,POL
 Poland,POL
+PR,PRI
+PRI,PRI
 Puerto Rico,PRI
+KP,PRK
 Korea (the Democratic People's Republic of),PRK
 Korea North,PRK
 "Korea, Dem. People's Rep.",PRK
@@ -423,159 +831,298 @@ Korea North,PRK
 "Korea, North",PRK
 "Korea,DPR",PRK
 North Korea,PRK
+PRK,PRK
+PRT,PRT
+PT,PRT
 Portugal,PRT
+PRY,PRY
+PY,PRY
 Paraguay,PRY
 Occupied Palestinian Territory,PSE
+PS,PSE
+PSE,PSE
 Palestine,PSE
 "Palestine, State of",PSE
 Palestinian Territories,PSE
 Palestinian territories,PSE
 State of Palestine,PSE
 Gaza Strip,PSE-GZA
+PSE-GZA,PSE-GZA
 Cambier Is,PYF
 French Poly-nesia,PYF
 French Polynesia,PYF
 Marquesas Is,PYF
+PF,PYF
+PYF,PYF
 Society Is,PYF
 Tuamotu Is,PYF
 Tubai Is,PYF
+QA,QAT
+QAT,QAT
 Qatar,QAT
+RE,REU
+REU,REU
 Reunion,REU
 Réunion,REU
+RO,ROU
+ROU,ROU
 Romania,ROU
+RU,RUS
+RUS,RUS
 Russia,RUS
 Russian Fed,RUS
 Russian Federation,RUS
 Russian Federation (the),RUS
+RUS-MOS,RUS-MOS
 Russian Federation Moscow,RUS-MOS
+RUS-SPE,RUS-SPE
 Russian Federation Saint Petersburg,RUS-SPE
+RW,RWA
+RWA,RWA
 Rwanda,RWA
+RYU,RYU
 Ryukyu Is,RYU
+SA,SAU
+SAU,SAU
 Saudi Arabia,SAU
 SaudiArabia,SAU
+SBH,SBH
 Sabah,SBH
+CS,SCG
+SCG,SCG
 Serbia and Montenegro,SCG
+SD,SDN
+SDN,SDN
 Sudan,SDN
 Sudan (including South Sudan),SDN
 Sudan (the),SDN
 Sudan-North,SDN
+SEN,SEN
+SN,SEN
 Senegal,SEN
+SG,SGP
+SGP,SGP
 Singapore,SGP
+GS,SGS
+SGS,SGS
 South Georgia and South Sandwich Islands,SGS
 South Georgia and the South Sandwich Islands,SGS
+SH,SHN
+SHN,SHN
 Saint Helena,SHN
 "Saint Helena, Ascension and Tristan da Cunha",SHN
 St. Helena,SHN
+SIK,SIK
 SIKKIM,SIK
+SJ,SJM
+SJM,SJM
 Svalbard and Jan Mayen,SJM
 Svalbard and Jan Mayen Is,SJM
+SB,SLB
+SLB,SLB
 Solomon Islands,SLB
+SL,SLE
+SLE,SLE
 Sierra Leone,SLE
 El Salvador,SLV
+SLV,SLV
+SV,SLV
+SM,SMR
+SMR,SMR
 San Marino,SMR
+SO,SOM
+SOM,SOM
 Somalia,SOM
 Somaliland,SOM
+SPE,SPE
 Special Categories,SPE
+PM,SPM
+SPM,SPM
 Saint Pierre and Miquelon,SPM
 St. Pierre and Miquelon,SPM
+RS,SRB
 Republic of Serbia,SRB
+SRB,SRB
 Serbia,SRB
 Kosovo,SRB-KM
 Republic of Kosovo,SRB-KM
+SRB-KM,SRB-KM
 UNK,SRB-KM
+XK,SRB-KM
 Republic of South Sudan,SSD
+SS,SSD
+SSD,SSD
 South Sudan,SSD
 Sudan (South),SSD
+ST,STP
+STP,STP
 Sao Tome & Principe,STP
 Sao Tome and Principe,STP
 Sao Tome& Principe,STP
 São Tomé and Príncipe,STP
+SU,SUN
+SUN,SUN
 USSR,SUN
+SR,SUR
+SUR,SUR
 Suriname,SUR
+SK,SVK
+SVK,SVK
 Slovak Rep,SVK
 Slovak Rep.,SVK
 Slovak Republic,SVK
 Slovakia,SVK
 Slovakia (Slovak Republic),SVK
+SI,SVN
+SVN,SVN
 Slovenia,SVN
 Fm Vietnam Rp,SVR
+SVR,SVR
+SVU,SVU
 Soviet Union,SVU
+SE,SWE
+SWE,SWE
 Sweden,SWE
+SWK,SWK
 Sarawak,SWK
 Eswatini,SWZ
+SWZ,SWZ
+SZ,SWZ
 Swaziland,SWZ
+SX,SXM
+SXM,SXM
 Sint Maarten,SXM
 Sint Maarten (Dutch part),SXM
+SC,SYC
+SYC,SYC
 Seychelles,SYC
+SY,SYR
+SYR,SYR
 Syria,SYR
 Syrian Arab Republic,SYR
 Fm Tanganyik,TAN
+TAN,TAN
+TC,TCA
+TCA,TCA
 Turks & Caicos Islands,TCA
 Turks and Caicos Isl.,TCA
 Turks and Caicos Islands,TCA
 Turks and Caicos Islands (the),TCA
 Chad,TCD
+TCD,TCD
+TD,TCD
+TG,TGO
+TGO,TGO
 Togo,TGO
+TH,THA
+THA,THA
 Thailand,THA
+TJ,TJK
+TJK,TJK
 Tadzhikistan,TJK
 Tajikistan,TJK
+TK,TKL
+TKL,TKL
 Tokelau,TKL
+TKM,TKM
+TM,TKM
 Turkmenistan,TKM
 East Timor,TLS
 East Timor / Timor-Leste,TLS
+TL,TLS
+TLS,TLS
 Timor Leste,TLS
 Timor-Leste,TLS
+TO,TON
+TON,TON
 Tonga,TON
+TT,TTO
+TTO,TTO
 Trinidad & Tobago,TTO
 Trinidad Tobago,TTO
 Trinidad and Tobago,TTO
 Trinidad&Tob,TTO
+TN,TUN
+TUN,TUN
 Tunisia,TUN
+TR,TUR
+TUR,TUR
 Turkey,TUR
+Türkiye,TUR
+TUV,TUV
+TV,TUV
 Tuvalu,TUV
 "China, Taiwan Province",TWN
 Chinese Taipei,TWN
+TW,TWN
+TWN,TWN
 Taiwan,TWN
 Taiwan (Province of China),TWN
 Taiwan Province of China,TWN
 Taiwan ROC,TWN
 "Taiwan, China",TWN
 "Taiwan, R.O.C.",TWN
+TZ,TZA
+TZA,TZA
 Tanzania,TZA
 "Tanzania, United Republic of",TZA
 United Republic of Tanzania,TZA
+UG,UGA
+UGA,UGA
 Uganda,UGA
+UA,UKR
+UKR,UKR
 Ukraine,UKR
+UM,UMI
+UMI,UMI
 United States Minor Outlying Islands,UMI
 United States Minor Outlying Islands (the),UMI
+UNS,UNS
 Unspecified,UNS
+URY,URY
+UY,URY
 Uruguay,URY
 U.S.,USA
+US,USA
 USA,USA
 United States,USA
 United States Minor Outlaying,USA
 United States of America,USA
 United States of America (the),USA
+USA-CA,USA-CA
 United States Los Angeles,USA-CA
+USA-NY,USA-NY
 United States New York City,USA-NY
+USP,USP
 Us Msc.Pac.I,USP
+UZ,UZB
+UZB,UZB
 Uzbekistan,UZB
 Uzbekstan,UZB
 Holy See,VAT
 Holy See (Vatican City State),VAT
 Holy See (the),VAT
+VA,VAT
+VAT,VAT
 Vatican City,VAT
 Saint Vincent and the Grenadines,VCT
 St Vincent and the Grenadines,VCT
 St. Vincent and the Gren.,VCT
 St. Vincent and the Grenadines,VCT
+VC,VCT
+VCT,VCT
 Fm Vietnam Dr,VDR
+VDR,VDR
+VE,VEN
+VEN,VEN
 Venezuela,VEN
 Venezuela (Bolivarian Republic of),VEN
 "Venezuela, RB",VEN
 "Venezuela, Republica Bolivariana de",VEN
 British Virgin,VGB
 British Virgin Islands,VGB
+VG,VGB
+VGB,VGB
 Virgin Islands (Brit),VGB
 Virgin Islands (British),VGB
 Virgin Islands (UK),VGB
@@ -584,26 +1131,53 @@ Virgin Islands; British,VGB
 U.S. Virgin Islands,VIR
 US Virgin Is,VIR
 United States Virgin Islands,VIR
+VI,VIR
+VIR,VIR
 Virgin Islands (U.S.),VIR
 Virgin Islands (US),VIR
 Virgin Islands; United States,VIR
+VN,VNM
+VNM,VNM
 Viet Nam,VNM
 Vietnam,VNM
+VU,VUT
+VUT,VUT
 Vanuatu,VUT
+WAK,WAK
 Wake Island,WAK
+WBG,WBG
 West Bank and Gaza,WBG
+WLD,WLD
 World,WLD
+WF,WLF
+WLF,WLF
 Wallis and Futuna,WLF
 Wallis and Futura Isl.,WLF
 Samoa,WSM
+WS,WSM
+WSM,WSM
+KV,XKX
+YDR,YDR
 Yemen Democratic,YDR
+YE,YEM
+YEM,YEM
 Yemen,YEM
 "Yemen, Rep.",YEM
+YUG,YUG
 Yugoslavia,YUG
 South Africa,ZAF
 SouthAfrica,ZAF
+ZA,ZAF
+ZAF,ZAF
 "Congo, Dem. Rep.",ZAR
+ZAR,ZAR
+ZM,ZMB
+ZMB,ZMB
 Zambia,ZMB
 Fm Zanz-Pemb,ZPM
+ZPM,ZPM
 Fm Rhod Nyas,ZW1
+ZW1,ZW1
+ZW,ZWE
+ZWE,ZWE
 Zimbabwe,ZWE
