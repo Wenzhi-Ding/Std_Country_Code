@@ -41,6 +41,17 @@ rename (Ctry_Name Ctry_ISO3) ([your country name] [your country code])
 save "${some_path}CountryName.dta", replace
 ```
 
+## Table of Content
+
+Main tables:
+- `CountryName.csv`: Country name map to 3-digit ISO code.
+- `CountryISO2.csv`: Country 2-digit ISO code map to 3-digit ISO code.
+- `CountryNumber.csv`: Country number map to 3-digit ISO code.
+
+Other useful tables:
+- `DSCurrency.csv`: Datastream currency code map to standard currency code.
+- `CN_ProvinceName.csv`: China province name map to standard code.
+- `US_StateName.csv`: US state name map to standard abbreviation.
 
 ## References
 
