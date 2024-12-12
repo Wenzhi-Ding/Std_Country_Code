@@ -57,6 +57,7 @@ TF,ATF
 AG,ATG
 ATG,ATG
 Antigua & Barbuda,ATG
+Antigua And Barbuda,ATG
 Antigua and Barbuda,ATG
 AU,AUS
 AUS,AUS
@@ -83,6 +84,7 @@ BQ,BES
 Bonaire,BES
 "Bonaire, Sint Eustatius and Saba",BES
 "Bonaire, St. Eustatius and Saba",BES
+Caribbean Netherlands,BES
 Saba,BES
 BF,BFA
 BFA,BFA
@@ -197,6 +199,7 @@ CIV,CIV
 Cote D Ivoire,CIV
 Cote D'Ivoire,CIV
 Cote Ivory,CIV
+Cote d''Ivoire,CIV
 Cote d'Ivoire,CIV
 Cote-D'Ivoire,CIV
 Côte D'Ivoire,CIV
@@ -369,6 +372,7 @@ Micronesia,FSM
 Micronesia (Federated States of),FSM
 Micronesia Fs,FSM
 "Micronesia, Fed. Sts.",FSM
+"Micronesia, Federated States of",FSM
 GA,GAB
 GAB,GAB
 Gabon,GAB
@@ -645,6 +649,7 @@ MD,MDA
 MDA,MDA
 Moldova,MDA
 Moldova (the Republic of),MDA
+"Moldova, Republic of",MDA
 Moldovia,MDA
 Republic of Moldova,MDA
 Transnistria,MDA
@@ -1105,6 +1110,7 @@ Holy See (the),VAT
 VA,VAT
 VAT,VAT
 Vatican City,VAT
+Vatican City State (Holy See),VAT
 Saint Vincent and the Grenadines,VCT
 St Vincent and the Grenadines,VCT
 St. Vincent and the Gren.,VCT
@@ -1152,8 +1158,10 @@ World,WLD
 WF,WLF
 WLF,WLF
 Wallis and Futuna,WLF
+Wallis and Futuna Islands,WLF
 Wallis and Futura Isl.,WLF
 Samoa,WSM
+Samoa (Independent),WSM
 WS,WSM
 WSM,WSM
 KV,XKX
