@@ -1,20 +1,27 @@
 # Standardize Country Code
 
-This project is to help social science research to standardize country code in multinational research. We follow [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) to standardize country identifiers. This list does not take any political or religious conflict into account.
+This project helps social science research standardize country codes in multinational research. We follow [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html) to standardize country identifiers. This list does not take any political or religious conflict into account.
 
-The list is now cross-sectional and I would like to develop it into a panel.
+Just in case you are interested in similar data tools, I also constructed:
+- [Standardized Security Code](https://github.com/Wenzhi-Ding/Std_Security_Code)
+- [Fama French Industry to SIC Link](https://github.com/Wenzhi-Ding/FamaFrenchIndustry)
 
-Please feel free to contribute if you find any uncovered or wrong country name/number/code. You can either use pull request or send me email: wenzhi.ding@connect.hku.hk.
+Please star the projects if you feel it is useful! Many thanks for your appreciation and support!
+
+
+The list is now cross-sectional, and I would like to develop it into a panel.
+
+Please feel free to contribute if you find any uncovered or wrong country name/number/code. You can either use a pull request or email me at wenzhi.ding@polyu.edu.hk.
 
 - **CountryName**: This dataset is the link table between country names and ISO 3166-1 Alpha-3 code.
-- CountryNumber: This dataset is the link table between ISO 3166-1 Numeric code and ISO 3166-1 Alpha-3 code.
-- CountryISO2: This dataset is the link table between ISO 3166-1 Alpha-2 code to ISO 3166-1 Alpha-3 code.
+- CountryNumber: This dataset is the link table between the ISO 3166-1 Numeric code and ISO 3166-1 Alpha-3 code.
+- CountryISO2: This dataset is the link table between the ISO 3166-1 Alpha-2 code and ISO 3166-1 Alpha-3 code.
 
-Please notice that I have some personal adjustments to keep the keys unique in each table. For example, Zaire and Congo share numeric code 180, but with different alpha code (ZR, ZAR and CD, COD). I only keep the present regime, which is (180, CD, COD).
+P.S. I have made some personal adjustments to keep the keys unique in each table. For example, Zaire and Congo share the numeric code 180 but with different alpha codes (ZR, ZAR, CD, COD). I only keep the present regime (180, CD, COD).
 
 ## How to Use
 
-In this way, you can always get the most updated version of country code link tables.
+You can get the most updated country code link table version in the following ways:
 
 ### Python
 
@@ -34,6 +41,17 @@ rename (Ctry_Name Ctry_ISO3) ([your country name] [your country code])
 save "${some_path}CountryName.dta", replace
 ```
 
+## Table of Content
+
+Main tables:
+- `CountryName.csv`: Country name map to 3-digit ISO code.
+- `CountryISO2.csv`: Country 2-digit ISO code map to 3-digit ISO code.
+- `CountryNumber.csv`: Country number map to 3-digit ISO code.
+
+Other useful tables:
+- `DSCurrency.csv`: Datastream currency code map to standard currency code.
+- `CN_ProvinceName.csv`: China province name map to standard code.
+- `US_StateName.csv`: US state name map to standard abbreviation.
 
 ## References
 
