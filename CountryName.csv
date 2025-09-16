@@ -38,6 +38,7 @@ Benin,BEN
 Bonaire,BES
 "Bonaire, Sint Eustatius and Saba",BES
 "Bonaire, St. Eustatius and Saba",BES
+Caribbean Netherlands,BES
 Saba,BES
 Burkina Faso,BFA
 Bangladesh,BGD
@@ -57,6 +58,7 @@ Bosnia and Herzegovina,BIH
 Bosnia-Herzegovina,BIH
 Saint Barthelemy,BLM
 Saint Barthélemy,BLM
+St. Barthélemy,BLM
 Belarus,BLR
 Byelorussia,BLR
 Belgium-Luxembourg,BLX
@@ -99,10 +101,12 @@ Cote d'Ivoire,CIV
 Cote-D'Ivoire,CIV
 Côte D'Ivoire,CIV
 Côte d'Ivoire,CIV
+Côte d’Ivoire,CIV
 Ivory Coast,CIV
 Cameroon,CMR
 Congo (DRC),COD
 Congo (the Democratic Republic of the),COD
+Congo - Kinshasa,COD
 Congo Kinshasa,COD
 "Congo, DR",COD
 "Congo, Dem. Rep. of",COD
@@ -114,6 +118,7 @@ Democratic Republic of the Congo,COD
 Republic of Congo,COD
 Congo,COG
 Congo (the),COG
+Congo - Brazzaville,COG
 Congo Brazzaville,COG
 "Congo, Rep.",COG
 "Congo, Republic of",COG
@@ -173,6 +178,7 @@ Falkland Is,FLK
 Falkland Is. (Malvinas),FLK
 Falkland Island,FLK
 Falkland Islands,FLK
+Falkland Islands (Islas Malvinas),FLK
 Falkland Islands (Malvinas),FLK
 Falkland Islands (the) [Malvinas],FLK
 France,FRA
@@ -231,6 +237,7 @@ Hong Kong SAR,HKG
 "Hong Kong, China",HKG
 "Hong Kong, SAR",HKG
 Hongkong,HKG
+Heard & McDonald Islands,HMD
 Heard Island and McDonald Islands,HMD
 Honduras,HND
 Croatia,HRV
@@ -279,6 +286,7 @@ Saint Kitts-Nevis-Anguilla-Aru,KN1
 Saint Kitts and Nevis,KNA
 Saint kitts Nevis,KNA
 St Kitts and Nevis,KNA
+St. Kitts & Nevis,KNA
 St. Kitts and Nevis,KNA
 Korea,KOR
 Korea (Rep.),KOR
@@ -323,6 +331,7 @@ Macau,MAC
 Saint Martin,MAF
 Saint Martin (French part),MAF
 Saint Martin Is,MAF
+St. Martin,MAF
 St. Martin (French part),MAF
 Morocco,MAR
 Monaco,MCO
@@ -398,6 +407,7 @@ Pakistan Karachi,PAK-SD
 Panama,PAN
 Pacific Islands,PCE
 Pitcairn,PCN
+Pitcairn Islands,PCN
 Fm Panama Cz,PCZ
 Peru,PER
 Philippine,PHL
@@ -455,12 +465,14 @@ Sudan (the),SDN
 Sudan-North,SDN
 Senegal,SEN
 Singapore,SGP
+South Georgia & South Sandwich Islands,SGS
 South Georgia and South Sandwich Islands,SGS
 South Georgia and the South Sandwich Islands,SGS
 Saint Helena,SHN
 "Saint Helena, Ascension and Tristan da Cunha",SHN
 St. Helena,SHN
 SIKKIM,SIK
+Svalbard & Jan Mayen,SJM
 Svalbard and Jan Mayen,SJM
 Svalbard and Jan Mayen Is,SJM
 Solomon Islands,SLB
@@ -471,6 +483,7 @@ Somalia,SOM
 Somaliland,SOM
 Special Categories,SPE
 Saint Pierre and Miquelon,SPM
+St. Pierre & Miquelon,SPM
 St. Pierre and Miquelon,SPM
 Republic of Serbia,SRB
 Serbia,SRB
@@ -483,6 +496,7 @@ Sudan (South),SSD
 Sao Tome & Principe,STP
 Sao Tome and Principe,STP
 Sao Tome& Principe,STP
+São Tomé & Príncipe,STP
 São Tomé and Príncipe,STP
 USSR,SUN
 Suriname,SUR
@@ -526,6 +540,7 @@ Trinidad and Tobago,TTO
 Trinidad&Tob,TTO
 Tunisia,TUN
 Turkey,TUR
+Türkiye,TUR
 Tuvalu,TUV
 "China, Taiwan Province",TWN
 Chinese Taipei,TWN
@@ -540,6 +555,7 @@ Tanzania,TZA
 United Republic of Tanzania,TZA
 Uganda,UGA
 Ukraine,UKR
+U.S. Outlying Islands,UMI
 United States Minor Outlying Islands,UMI
 United States Minor Outlying Islands (the),UMI
 Unspecified,UNS
@@ -561,6 +577,7 @@ Holy See (the),VAT
 Vatican City,VAT
 Saint Vincent and the Grenadines,VCT
 St Vincent and the Grenadines,VCT
+St. Vincent & Grenadines,VCT
 St. Vincent and the Gren.,VCT
 St. Vincent and the Grenadines,VCT
 Fm Vietnam Dr,VDR
@@ -587,6 +604,7 @@ Vanuatu,VUT
 Wake Island,WAK
 West Bank and Gaza,WBG
 World,WLD
+Wallis & Futuna,WLF
 Wallis and Futuna,WLF
 Wallis and Futura Isl.,WLF
 Samoa,WSM
